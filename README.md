@@ -1,0 +1,3 @@
+Android WebView is generally used to embed a browser in android app to load all the URLs. This ultimately helps to keep the users more engaged within the app, rather than making them leave due to outside links. Ive also created a demo on [How To Embed Android WebView to Load URLs Inside Android Apps](https://www.spaceotechnologies.com/android-webview-example/). 
+
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android App and looking to [Hire Android App Development Company](http://www.spaceotechnologies.com/android-app-development/) to help you, then you can contact Space-O Technologies for the same.
